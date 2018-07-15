@@ -1,0 +1,1 @@
+<p>With the data given by the FBI from 2013, I go through the data in order to find which States commit the most Violent Crimes, which are safest, given the ammount of population per town, and might lead to the alarming crime rates </p>
